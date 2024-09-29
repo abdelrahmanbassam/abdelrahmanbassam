@@ -19,16 +19,16 @@
 <h3 align="left">Problem Solving:</h3>
 <p align="center">
     <a href="https://codeforces.com/profile/A.bassam10"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=A.bassam10&theme=dark" height="225" />
-            <source media="(prefers-color-scheme: light)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=A.bassam10" height="225" />
-            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=A.bassam10&theme=dark" height="225" /></picture></a>&nbsp;
+            <source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=A.bassam10&theme=dark" height="200" />
+            <source media="(prefers-color-scheme: light)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=A.bassam10" height="200" />
+            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=A.bassam10&theme=dark" height="200" /></picture></a>&nbsp;
     <a href="https://www.leetcode.com/A_bassam10"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/A_bassam10?ext=heatmap&theme=dark" height="225" />
-            <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/A_bassam10?ext=heatmap&theme=light" height="225" />
-            <img src="https://leetcard.jacoblin.cool/A_bassam10?ext=heatmap&theme=dark" height="225" /></picture></a>&nbsp;
+            <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/A_bassam10?ext=heatmap&theme=dark" height="200" />
+            <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/A_bassam10?ext=heatmap&theme=light" height="200" />
+            <img src="https://leetcard.jacoblin.cool/A_bassam10?ext=heatmap&theme=dark" height="200" /></picture></a>&nbsp;
     <a href="https://www.leetcode.com/A_bassam10"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=A_bassam10&theme=black&timestamp=1712145199" height="225" />
-            <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=A_bassam10&theme=light&timestamp=1712145199" height="225" />
-            <img src="https://leetcode-badge-showcase.vercel.app/api?username=A_bassam10&theme=black&timestamp=1712145199" height="225" /></picture></a>
+            <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=A_bassam10&theme=black&timestamp=1712145199" height="200" />
+            <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=A_bassam10&theme=light&timestamp=1712145199" height="200" />
+            <img src="https://leetcode-badge-showcase.vercel.app/api?username=A_bassam10&theme=black&timestamp=1712145199" height="200" /></picture></a>
 </p>
 
