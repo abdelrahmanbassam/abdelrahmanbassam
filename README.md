@@ -4,9 +4,22 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahman bassam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman bassam" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/a.bassam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="a.bassam10" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/A.bassam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="a.bassam10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/a_bassam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a_bassam10" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/abdelrahmanbass2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abdelrahmanbass2" height="30" width="40" /></a>
+</p>
+
+## Problem Solving Profiles:
+<p align="left">
+<a href="https://codeforces.com/profile/A.bassam10" target="blank">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=A.bassam10&theme=dark&hide_border=true" alt="Codeforces Profile" />
+</a>
+</p>
+
+<p align="left">
+<a href="https://leetcode.com/A_bassam10/" target="blank">
+<img src="https://leetcode-stats-card.vercel.app/?username=A_bassam10" alt="LeetCode Stats" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
