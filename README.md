@@ -27,7 +27,8 @@
             <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/A_bassam10?ext=heatmap&theme=light" height="225" />
             <img src="https://leetcard.jacoblin.cool/A_bassam10?ext=heatmap&theme=dark" height="225" /></picture></a>&nbsp;
     <a href="https://www.leetcode.com/A_bassam10"><picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=A_bassam10&theme=black&timestamp=1712145199" height="260" />
-            <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=A_bassam10&theme=light&timestamp=1712145199" height="260" />
-            <img src="https://leetcode-badge-showcase.vercel.app/api?username=A_bassam10&theme=black&timestamp=1712145199" height="260" /></picture></a>
+            <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=A_bassam10&theme=black&timestamp=1712145199" height="225" />
+            <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=A_bassam10&theme=light&timestamp=1712145199" height="225" />
+            <img src="https://leetcode-badge-showcase.vercel.app/api?username=A_bassam10&theme=black&timestamp=1712145199" height="225" /></picture></a>
 </p>
+
